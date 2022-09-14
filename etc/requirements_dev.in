@@ -1,0 +1,8 @@
+flake8
+
+pytest
+pytest-benchmark
+pytest-xdist
+hypothesis
+
+pip-tools
